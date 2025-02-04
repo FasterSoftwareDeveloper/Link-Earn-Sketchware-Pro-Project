@@ -1,0 +1,74 @@
+[
+  {
+    "reference": "android:priority\u003d\"-500\"",
+    "input": "\u003eAndroidManifest.xml\n",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\nandroid:directBootAware\u003d\"true\"",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "add"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\n.FCMService",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003edashboard.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003etask.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003ewallet.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003efinancial.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "\t\tandroid:icon\u003d\"@mipmap/ic_launcher\"",
+    "input": "\u003eAndroidManifest.xml\n\t\tandroid:icon\u003d\"@drawable/logo\"",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "package\u003d\"yt.linkearn.faster\"\u003e",
+    "input": "\u003eAndroidManifest.xml\n\u003cqueries\u003e\n        \u003cpackage android:name\u003d\"com.android.chrome\" /\u003e\n    \u003c/queries\u003e",
+    "distance": 0,
+    "before": 0,
+    "after": 0,
+    "command": "add"
+  }
+]

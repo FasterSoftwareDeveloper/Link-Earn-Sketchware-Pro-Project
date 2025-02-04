@@ -1,0 +1,10 @@
+[
+  {
+    "name": "AccountActivity",
+    "value": "\t\t\t\u003cintent-filter android:autoVerify\u003d\"true\"\u003e\n\t\t\t\t\u003caction android:name\u003d\"android.intent.action.VIEW\" /\u003e\n\t\t\t\t\u003caction android:name\u003d\"arash.android11.LAUNCH\" /\u003e\n\t\t\t\t\u003ccategory android:name\u003d\"android.intent.category.DEFAULT\" /\u003e\n\t\t\t\t\u003ccategory android:name\u003d\"android.intent.category.BROWSABLE\" /\u003e\n\t\t\t\t\u003cdata android:scheme\u003d\"http\" /\u003e\n\t\t\t\t\u003cdata android:scheme\u003d\"https\" /\u003e\n\t\t\t\t\u003cdata android:host\u003d\"linkearn.com\" /\u003e\n\t\t\t\u003c/intent-filter\u003e"
+  },
+  {
+    "name": "TaskViewActivity",
+    "value": "\t\t\t\u003cintent-filter android:autoVerify\u003d\"true\"\u003e\n\t\t\t\t\u003caction android:name\u003d\"android.intent.action.VIEW\" /\u003e\n\t\t\t\t\u003caction android:name\u003d\"arash.android11.LAUNCH\" /\u003e\n\t\t\t\t\u003ccategory android:name\u003d\"android.intent.category.DEFAULT\" /\u003e\n\t\t\t\t\u003ccategory android:name\u003d\"android.intent.category.BROWSABLE\" /\u003e\n\t\t\t\t\u003cdata android:scheme\u003d\"http\" /\u003e\n\t\t\t\t\u003cdata android:scheme\u003d\"https\" /\u003e\n\t\t\t\t\u003cdata android:host\u003d\"linkearntask.com\" /\u003e\n\t\t\t\u003c/intent-filter\u003e"
+  }
+]

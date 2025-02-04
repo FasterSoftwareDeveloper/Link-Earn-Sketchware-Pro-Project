@@ -1,0 +1,90 @@
+[
+  {
+    "reference": "android:priority\u003d\"-500\"",
+    "input": "\u003eAndroidManifest.xml\n",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\nandroid:directBootAware\u003d\"true\"",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "add"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\n.FCMService",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003esettings.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003etotal.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003epanel.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003enotification_manager.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0,
+    "before": 0,
+    "after": 0,
+    "command": "replace"
+  },
+  {
+    "reference": "android:priority\u003d\"-500\"",
+    "input": "\u003eAndroidManifest.xml\n",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\nandroid:directBootAware\u003d\"true\"",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "add"
+  },
+  {
+    "reference": "com.google.firebase.messaging.FirebaseMessagingService",
+    "input": "\u003eAndroidManifest.xml\n.FCMService",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "find-replace"
+  },
+  {
+    "reference": "androidx.appcompat.widget.Toolbar",
+    "input": "\u003esecurity_and_other_manager.xml\n\u003ccom.google.android.material.appbar.MaterialToolbar",
+    "distance": 0.0,
+    "before": 0.0,
+    "after": 0.0,
+    "command": "replace"
+  }
+]

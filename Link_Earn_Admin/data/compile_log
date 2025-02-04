@@ -1,0 +1,29 @@
+----------
+1. WARNING in /storage/emulated/0/.sketchware/mysc/610/app/src/main/java/yt/linkearnfasterpanel/faster/TotalActivity.java (at line 599)
+	startActivityForResult(imgPicker, REQ_CD_IMGPICKER);
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The method startActivityForResult(Intent, int) from the type ComponentActivity is deprecated
+----------
+----------
+2. ERROR in /storage/emulated/0/.sketchware/mysc/610/app/src/main/java/yt/linkearnfasterpanel/faster/MainActivity.java (at line 577)
+	b 
+	^
+Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration
+----------
+3. ERROR in /storage/emulated/0/.sketchware/mysc/610/app/src/main/java/yt/linkearnfasterpanel/faster/MainActivity.java (at line 577)
+	b 
+	^
+Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+----------
+----------
+4. WARNING in /storage/emulated/0/.sketchware/data/610/files/java/SketchwareUtil.java (at line 25)
+	View _view = _toast.getView();
+	                    ^^^^^^^^^
+The method getView() from the type Toast is deprecated
+----------
+5. WARNING in /storage/emulated/0/.sketchware/data/610/files/java/SketchwareUtil.java (at line 57)
+	View _view = _toast.getView();
+	                    ^^^^^^^^^
+The method getView() from the type Toast is deprecated
+----------
+5 problems (2 errors, 3 warnings)

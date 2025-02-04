@@ -1,0 +1,10 @@
+[
+  {
+    "name": "_application_attrs",
+    "value": "android:theme\u003d\"@style/AppTheme\""
+  },
+  {
+    "name": "_application_permissions",
+    "value": "android:name\u003d\"android.permission.POST_NOTIFICATIONS\""
+  }
+]
